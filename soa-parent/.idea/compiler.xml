@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="soa-doc" />
         <module name="soa-other-subbo-spi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="soa-doc" target="1.8" />
       <module name="soa-other" target="1.8" />
       <module name="soa-other-subbo-spi" target="1.8" />
       <module name="soa-parent" target="1.8" />

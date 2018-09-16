@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/soa-doc/soa-doc.iml" filepath="$PROJECT_DIR$/soa-doc/soa-doc.iml" />
       <module fileurl="file://$PROJECT_DIR$/soa-other/soa-other-subbo-spi/soa-other-subbo-spi.iml" filepath="$PROJECT_DIR$/soa-other/soa-other-subbo-spi/soa-other-subbo-spi.iml" />
       <module fileurl="file://$PROJECT_DIR$/soa-parent.iml" filepath="$PROJECT_DIR$/soa-parent.iml" />
     </modules>
